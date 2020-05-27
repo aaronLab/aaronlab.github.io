@@ -1,2 +1,0 @@
-# aaronlab.github.io
-Portfolio
